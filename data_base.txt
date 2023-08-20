@@ -1,0 +1,5 @@
+Department: Produce, Name: Bananas, Qty: 100, Price: $100.0
+Department: Produce, Name: Apple1, Qty: 221, Price: $39.0
+Department: Produce, Name: Oranges, Qty: 50, Price: $2.99
+Department: Produce, Name: Cilantro, Qty: 33, Price: $0.99
+Department: House, Name: Nike shoes black size 7, Qty: 234, Price: $3454.0

@@ -1,0 +1,32 @@
+The Inventory Management App is a Python program equipped with a user interface created using the Tkinter library. This desktop application is designed to efficiently track a supermarket inventory, offering a streamlined approach to inventory management.
+
+Functionalities the program can offer: 
+
+1. Add Item
+
+To add a brand new item to the data base of the supermarket, this function can be found on the 
+left side of the screen inside the box with the tittle "Tools". There are four values that must be enter 
+to be able to add a new item such as: name of the item, qty of items to be add, price of each item, and the 
+department the item will belong. 
+
+Limitations of information for adding a new item: 
+
+A. "Enter item name" can only take a name no longer than 25 characters, numbers and speciall characters are allow.
+B. "Enter item qty" can only take qty's no bigger than 999,999.
+C. "Enter price" can take decimal and no decial prices.
+D. "Selecet department" must be selected.
+
+2. Delete Item
+
+3. View Department 
+
+4. Add Qty Item
+
+5. Delete Qty Item
+
+6. Save
+
+7. Reset
+
+
+
